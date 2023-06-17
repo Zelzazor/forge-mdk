@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "zelzazor:black_opal_ore",
+    "zelzazor:black_opal_block",
+    "zelzazor:deepslate_black_opal_ore",
+    "zelzazor:netherrack_black_opal_ore",
+    "zelzazor:endstone_black_opal_ore"
+  ]
+}
